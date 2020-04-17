@@ -52,6 +52,12 @@ images.
 * [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64`
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
 
+## Open Source Virtualization
+
+This section is for projects like Proxmox, for where the community feel strongly, but their submission doesn't fit into the bare-metal category.
+
+* [Proxmox VE](https://www.proxmox.com/en/proxmox-ve/get-started) - "Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform"
+
 ## Appendix
 
 Sorting sections:
