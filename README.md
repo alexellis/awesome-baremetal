@@ -32,6 +32,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [RackHD](https://rackhd.readthedocs.io/en/latest/) - "a technology stack for enabling automated hardware management and orchestration through cohesive APIs. It serves as an abstraction layer between other management layers and the underlying, vendor-specific physical hardware."
 * [Talos Systems](https://www.talos-systems.com/blog/building-arges-part-one-a-new-tool-for-datacenter-management/) - "A New Tool for Kubernetes Bare Metal" - with ClusterAPI support
 * [Tinkerbell](https://tinkerbell.org) - "Tinkerbell is a bare metal provisioning engine. It’s built and maintained with love by the team at Packet."
+* [Proxmox VE](https://www.proxmox.com/en/proxmox-ve) - full featured, easy to install Open-Source Virtualization Platform, comparable to VMWare VSphere. Compute, network and storage in a single solution. Ideal to set up a small (single node) to large (many nodes) virtualization environment on bare-metal servers. Also supports cloud-init so that VMs can be easily spun up from cloud images via the webinterface (similar to Droplets on Digital Ocean).
 
 ## Networking for bare-metal cloud
 
