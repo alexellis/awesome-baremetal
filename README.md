@@ -51,6 +51,7 @@ images.
 * [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
 * [AWS bare metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
 * [cherryservers.com](https://www.cherryservers.com) - `x86_64`
+* [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
 * [Packet bare metal infrastructure](https://www.packet.com) - `x86_64` & `arm64`
 * [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64`
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
