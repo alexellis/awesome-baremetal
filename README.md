@@ -17,6 +17,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 
 * [bmc-toolbox](https://github.com/bmc-toolbox) - "bmc-toolbox is bunch of tools to ease BMC management"
 * [cobbler](https://github.com/cobbler/cobbler) - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
+* [confluent](https://github.com/lenovo/confluent) - "Service for onboarding and management of baremetal server BMCs and PXE"
 * [Digital Rebar](https://rebar.digital) - "Digital Rebar is the data center automation, provisioning and infrastructure as code (IaC) platform designed with a cloud native architecture replacing Cobbler, Foreman, MaaS or similar technologies"
 * [foreman](https://github.com/theforeman/foreman) - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
 * [ironic](https://github.com/openstack/ironic) "A service for managing and provisioning Bare Metal servers" - from OpenStack Foundation
