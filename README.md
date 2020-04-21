@@ -7,7 +7,9 @@ Bare-metal is awesome. Let's share our favourite tools.
 * Ordered alphabetically (eventually consistent)
 * Recent development or release (within the last 6 months) - or deemed relevant by curator
 * No defunct or abandoned projects
-* Must show signs of traction or corporate use, no "my scripts for my homelab that only I use" submissions.
+* Must show signs of traction or corporate use
+ * No "my scripts for my homelab that only I use" submissions.
+ * This list is curated and not a museum, so the project should be active and relevant
 * No advertisements
 * Format: `link to GitHub or website - "quote from GitHub repo or website"`
 
