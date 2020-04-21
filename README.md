@@ -38,15 +38,14 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 
 ## Networking for bare-metal cloud
 
+* [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - "Dnsmasq provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot."
 * [HAProxy](http://www.haproxy.org) - "The Reliable, High Performance TCP/HTTP Load Balancer" - often used in place of hardware LB.
 * [inlets PRO](https://github.com/inlets/inlets-pro) - "inlets-pro is a Cloud Native Tunnel for L4 TCP traffic with built-in link encryption"
 * [inlets-operator](https://github.com/inlets/inlets-operator) - "Public IPs for your private Kubernetes Services using inlets or inlets PRO"
 * [inlets](https://docs.inlets.dev/#/) - "Cloud Native Tunnel written in Go." - HTTP tunnel
 * [kube-vip](https://github.com/plunder-app/kube-vip) - "Kubernetes Control Plane Virtual IP and Load-Balancer"
 * [MetalLB](https://metallb.universe.tf) - "MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols."
-* [Squid](http://www.squid-cache.org) - "a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages." - used with bare-metal to cache packages and ISO
-images.
-* [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - "A small local DNS utility. It is very helpful in overwriting the default DNS and point FQDNs to a custom DNS or even a custom IP"
+* [Squid](http://www.squid-cache.org) - "a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages." - used with bare-metal to cache packages and ISO images
 
 ## Bare-metal cloud
 
