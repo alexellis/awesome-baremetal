@@ -1,6 +1,6 @@
 # awesome-baremetal
 
-Bare-metal is awesome. Let's share our favourite tools. 
+Bare-metal is awesome. Let's share our favourite tools.
 
 ## Rules
 
@@ -44,8 +44,9 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [inlets](https://docs.inlets.dev/#/) - "Cloud Native Tunnel written in Go." - HTTP tunnel
 * [kube-vip](https://github.com/plunder-app/kube-vip) - "Kubernetes Control Plane Virtual IP and Load-Balancer"
 * [MetalLB](https://metallb.universe.tf) - "MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols."
-* [Squid](http://www.squid-cache.org) - "a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages." - used with bare-metal to cache packages and ISO 
+* [Squid](http://www.squid-cache.org) - "a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages." - used with bare-metal to cache packages and ISO
 images.
+* [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - "A small local DNS utility. It is very helpful in overwriting the default DNS and point FQDNs to a custom DNS or even a custom IP"
 
 ## Bare-metal cloud
 
