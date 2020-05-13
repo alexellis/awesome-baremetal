@@ -72,7 +72,9 @@ This section is for projects like Proxmox, for where the community feel strongly
 
 ## Appendix
 
-Sorting sections:
+### Sorting sections
+
+Each section should be sorted after it's been updated, here's how you can do that with bash.
 
 ```bash
 cat | sort -f
@@ -80,3 +82,5 @@ cat | sort -f
 
 # Control + D
 ```
+
+Then paste the output back into the document.
