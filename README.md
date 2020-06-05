@@ -59,7 +59,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
 * [Packet bare metal infrastructure](https://www.packet.com) - `x86_64` & `arm64`
-* [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64`
+* [Scaleway.com](https://www.scaleway.com) - `x86_64`
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
 
 ## Open Source Virtualization
