@@ -19,6 +19,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 
 * [bmc-toolbox](https://github.com/bmc-toolbox) - "bmc-toolbox is bunch of tools to ease BMC management"
 * [cobbler](https://github.com/cobbler/cobbler) - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
+* [Collins](https://tumblr.github.io/collins/) - "CMDB / state machine for infrastructure automation"
 * [confluent](https://github.com/lenovo/confluent) - "Service for onboarding and management of baremetal server BMCs and PXE"
 * [Digital Rebar](https://rebar.digital) - "Digital Rebar is the data center automation, provisioning and infrastructure as code (IaC) platform designed with a cloud native architecture replacing Cobbler, Foreman, MaaS or similar technologies"
 * [foreman](https://github.com/theforeman/foreman) - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
@@ -55,6 +56,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
 * [AWS bare metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
 * [cherryservers.com](https://www.cherryservers.com) - `x86_64`
+* [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
 * [Packet bare metal infrastructure](https://www.packet.com) - `x86_64` & `arm64`
 * [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64`
@@ -64,11 +66,15 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 
 This section is for projects like Proxmox, for where the community feel strongly, but their submission doesn't fit into the bare-metal category.
 
+* [oVirt](https://www.ovirt.org/) - "oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible."
+* [Ganeti](https://github.com/ganeti/ganeti) - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
 * [Proxmox VE](https://www.proxmox.com/en/proxmox-ve/get-started) - "Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform"
 
 ## Appendix
 
-Sorting sections:
+### Sorting sections
+
+Each section should be sorted after it's been updated, here's how you can do that with bash.
 
 ```bash
 cat | sort -f
@@ -76,3 +82,5 @@ cat | sort -f
 
 # Control + D
 ```
+
+Then paste the output back into the document.
