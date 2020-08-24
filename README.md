@@ -61,6 +61,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [Packet bare metal infrastructure](https://www.packet.com) - `x86_64` & `arm64`
 * [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64`
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
+* [Maxihost.com](https://www.maxihost.com) - `x86_64`
 
 ## Open Source Virtualization
 
