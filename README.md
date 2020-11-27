@@ -37,7 +37,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [plundr](https://github.com/plunder-app/plunder) - "Plunder is a single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier." - with ClusterAPI support
 * [RackHD](https://rackhd.readthedocs.io/en/latest/) - "a technology stack for enabling automated hardware management and orchestration through cohesive APIs. It serves as an abstraction layer between other management layers and the underlying, vendor-specific physical hardware."
 * [Razor](https://github.com/puppetlabs/razor-server) - "Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning"
-* [Talos Systems](https://www.talos-systems.com/blog/building-arges-part-one-a-new-tool-for-datacenter-management/) - "A New Tool for Kubernetes Bare Metal" - with ClusterAPI support
+* [Sidero](https://www.sidero.dev/) - "Bare Metal lifecycle management for Kubernetes clusters" - with ClusterAPI support
 * [Tinkerbell](https://tinkerbell.org) - "Tinkerbell is a bare metal provisioning engine. It’s built and maintained with love by the team at Packet."
 
 ## Networking for bare-metal cloud
