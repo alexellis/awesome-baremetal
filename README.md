@@ -15,6 +15,12 @@ Bare-metal is awesome. Let's share our favourite tools.
 
 Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](https://openfaas.com/) & [Inlets](https://docs.inlets.dev/) Founder.
 
+## Built for developers by developers
+
+<a href="https://github.com/sponsors/alexellis/">
+<img alt="Sponsor this project" src="https://github.com/alexellis/alexellis/blob/master/sponsor-today.png" width="65%" height="65%">
+</a>
+
 ## Self-hosted
 
 * [bmc-toolbox](https://github.com/bmc-toolbox) - "bmc-toolbox is bunch of tools to ease BMC management"
