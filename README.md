@@ -44,7 +44,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [RackHD](https://rackhd.readthedocs.io/en/latest/) - "a technology stack for enabling automated hardware management and orchestration through cohesive APIs. It serves as an abstraction layer between other management layers and the underlying, vendor-specific physical hardware."
 * [Razor](https://github.com/puppetlabs/razor-server) - "Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning"
 * [Talos Systems](https://www.talos-systems.com/blog/building-arges-part-one-a-new-tool-for-datacenter-management/) - "A New Tool for Kubernetes Bare Metal" - with ClusterAPI support
-* [Tinkerbell](https://tinkerbell.org) - "Tinkerbell is a bare metal provisioning engine. It’s built and maintained with love by the team at Packet."
+* [Tinkerbell](https://tinkerbell.org) - "Tinkerbell is a bare metal provisioning engine. It’s built and maintained with love by the team at Equinix Metal."
 
 ## Networking for bare-metal cloud
 
@@ -59,14 +59,14 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 
 ## Bare-metal cloud
 
-* [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
+* [Equinix Metal bare-metal infrastructure](https://www.equinix-metal.com) - `x86_64` & `arm64`
 * [AWS bare metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
-* [cherryservers.com](https://www.cherryservers.com) - `x86_64`
-* [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
-* [Packet bare metal infrastructure](https://www.packet.com) - `x86_64` & `arm64`
-* [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64`
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
+* [cherryservers.com](https://www.cherryservers.com) - `x86_64`
+* [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
+* [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
+* [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64` ([ARM support is being deprecated](https://www.theregister.com/2020/04/21/scaleway_arm64_cloud_end_of_life/))
 
 ## Open Source Virtualization
 
