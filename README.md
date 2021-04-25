@@ -66,6 +66,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [Maxihost.com](https://www.maxihost.com) - `x86_64` & `arm64`
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
 * [Packet bare metal infrastructure](https://www.packet.com) - `x86_64` & `arm64`
+* [Rackspace OnMetal](https://www.rackspace.com/openstack/public/servers/onmetal) - `x86_64`
 * [Scaleway.com](https://www.scaleway.com) - `x86_64`
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
 
