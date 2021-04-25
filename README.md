@@ -82,6 +82,7 @@ This section is for projects like Proxmox, for where the community feel strongly
 
 * [OpenEBS](https://openebs.io/) - "Open Source Container Attached Storage, simplifies running Stateful Applications on Kubernetes.
 * [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
+* [Longhorn](https://github.com/longhorn/longhorn) - "Rancher Longhorn distributed block storage system for Kubernetes"
 
 
 ## Appendix
