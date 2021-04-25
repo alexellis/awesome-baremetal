@@ -63,6 +63,7 @@ images.
 * [AWS bare metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
 * [Bigstep Metal Cloud](https://bigstep.com/uk/products/bare-metal-cloud) - `x86_64`
 * [cherryservers.com](https://www.cherryservers.com) - `x86_64`
+* [DedicatedServer.io](https://www.dedicatedserver.io)  - `x86_64` & `arm64`
 * [Equinix Metal](https://metal.equinix.com/) - `x86_64` & `arm64` - (Acquired from Packet)
 * [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
 * [Maxihost.com](https://www.maxihost.com) - `x86_64` & `arm64`
