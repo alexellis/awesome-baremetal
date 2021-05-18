@@ -29,6 +29,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [MaaS](https://maas.io) - "Metal as a Service" by Canonical
 * [Matchbox](https://matchbox.psdn.io) - "Matchbox is a service that matches bare-metal machines to profiles that PXE boot and provision clusters"
 * [metalk8s](https://github.com/scality/metalk8s) - "MetalK8s was launched to make it easier to run Kubernetes (K8s) on bare-metal servers that need persistent storage" by Scality
+* [MetalSoft](https://metalsoft.io) - "Intelligent bare metal automation software platform that facilitates the building and operations of cloud-native infrastructures spanning from the core to the edge."
 * [Metal Stack](https://metal-stack.io) - "we believe kubernetes runs best on bare metal. we build an api to manage bare metal hardware and kubernetes on top of that."
 * [Metal³](https://github.com/metal3-io) - "Bare Metal Host Provisioning for Kubernetes" - with ClusterAPI support and built with Ironic
 * [mr-provisioner](https://github.com/mr-provisioner/mr-provisioner) - "Bare metal provisioning tool"
@@ -37,8 +38,10 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [plundr](https://github.com/plunder-app/plunder) - "Plunder is a single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier." - with ClusterAPI support
 * [RackHD](https://rackhd.readthedocs.io/en/latest/) - "a technology stack for enabling automated hardware management and orchestration through cohesive APIs. It serves as an abstraction layer between other management layers and the underlying, vendor-specific physical hardware."
 * [Razor](https://github.com/puppetlabs/razor-server) - "Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning"
+* [Sidero](https://www.sidero.dev/) - "Bare Metal lifecycle management for Kubernetes clusters" - with ClusterAPI support
 * [Talos Systems](https://www.talos-systems.com/blog/building-arges-part-one-a-new-tool-for-datacenter-management/) - "A New Tool for Kubernetes Bare Metal" - with ClusterAPI support
 * [Tinkerbell](https://tinkerbell.org) - "Tinkerbell is a bare metal provisioning engine. It’s built and maintained with love by the team at Equinix Metal."
+* [Uyuni Project](https://www.uyuni-project.org/) - "The best systems management solution for your enterprise Linux. From provisioning bare-metal on-premise to managing clusters on the cloud, from tens of managed systems to tens of thousands. Powered by Salt."
 
 ## Networking for bare-metal cloud
 
@@ -49,17 +52,26 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [inlets](https://docs.inlets.dev/#/) - Easy to use HTTP tunnel written in Go
 * [kube-vip](https://github.com/plunder-app/kube-vip) - "Kubernetes Control Plane Virtual IP and Load-Balancer"
 * [MetalLB](https://metallb.universe.tf) - "MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols."
+* [PorterLB](https://github.com/kubesphere/porterlb) - "PorterLB is an open-source load balancer implementation designed for bare-metal Kubernetes clusters."
 * [Squid](http://www.squid-cache.org) - "a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages." - used with bare-metal to cache packages and ISO images
+* [Varnish-Cache](https://github.com/varnishcache/varnish-cache) Varnish Cache, the high-performance HTTP accelerator
+images.
 
 ## Bare-metal cloud
 
 * [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
 * [AWS bare metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
+* [Bigstep Metal Cloud](https://bigstep.com/uk/products/bare-metal-cloud) - `x86_64`
 * [cherryservers.com](https://www.cherryservers.com) - `x86_64`
-* [Equinix Metal bare-metal infrastructure](https://www.equinix-metal.com) - `x86_64` & `arm64`
+* [DedicatedServer.io](https://www.dedicatedserver.io)  - `x86_64` & `arm64`
+* [Equinix Metal](https://metal.equinix.com/) - `x86_64` & `arm64` - (Acquired from Packet)
 * [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
+* [Maxihost.com](https://www.maxihost.com) - `x86_64` & `arm64`
+* [Mirantis Cloud Platform](https://www.mirantis.com/software/mcp/) - `x86_64`
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
-* [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64` ([ARM support is being deprecated](https://www.theregister.com/2020/04/21/scaleway_arm64_cloud_end_of_life/))
+* [Packet bare metal infrastructure](https://www.packet.com) - `x86_64` & `arm64`
+* [Rackspace OnMetal](https://www.rackspace.com/openstack/public/servers/onmetal) - `x86_64`
+* [Scaleway.com](https://www.scaleway.com) - `x86_64`
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
 
 ## Open Source Virtualization
@@ -69,6 +81,13 @@ This section is for projects like Proxmox, for where the community feel strongly
 * [oVirt](https://www.ovirt.org/) - "oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible."
 * [Ganeti](https://github.com/ganeti/ganeti) - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
 * [Proxmox VE](https://www.proxmox.com/en/proxmox-ve/get-started) - "Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform"
+
+## Storage for bare-metal
+
+* [OpenEBS](https://openebs.io/) - "Open Source Container Attached Storage, simplifies running Stateful Applications on Kubernetes.
+* [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
+* [Longhorn](https://github.com/longhorn/longhorn) - "Rancher Longhorn distributed block storage system for Kubernetes"
+
 
 ## Appendix
 
