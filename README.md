@@ -56,7 +56,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
 * [AWS bare metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
 * [cherryservers.com](https://www.cherryservers.com) - `x86_64`
-* [Equinix Metal bare-metal infrastructure](https://www.equinix-metal.com) - `x86_64` & `arm64`
+* [Equinix Metal](https://metal.equinix.com/) - `x86_64` & `arm64`
 * [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
 * [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64` ([ARM support is being deprecated](https://www.theregister.com/2020/04/21/scaleway_arm64_cloud_end_of_life/))
