@@ -39,6 +39,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 * [Razor](https://github.com/puppetlabs/razor-server) - "Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning"
 * [Talos Systems](https://www.talos-systems.com/blog/building-arges-part-one-a-new-tool-for-datacenter-management/) - "A New Tool for Kubernetes Bare Metal" - with ClusterAPI support
 * [Tinkerbell](https://tinkerbell.org) - "Tinkerbell is a bare metal provisioning engine. It’s built and maintained with love by the team at Equinix Metal."
+* [Uyuni Project](https://www.uyuni-project.org/) - "The best systems management solution for your enterprise Linux. From provisioning bare-metal on-premise to managing clusters on the cloud, from tens of managed systems to tens of thousands. Powered by Salt."
 
 ## Networking for bare-metal cloud
 
