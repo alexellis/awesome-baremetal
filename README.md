@@ -53,14 +53,23 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 
 ## Bare-metal cloud
 
+`x86_64` and / or arm64:
+
 * [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
 * [AWS bare metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
-* [cherryservers.com](https://www.cherryservers.com) - `x86_64`
 * [Equinix Metal bare-metal infrastructure](https://www.equinix-metal.com) - `x86_64` & `arm64`
+
+The Raspberry Pi 4B provides arm64 support with several operating systems like Ubuntu 20.04 / 22.04 being available. An NVMe can be plugged in over USB-C, see also: [Upgrade your Raspberry Pi 4 with a NVMe boot drive](https://alexellisuk.medium.com/upgrade-your-raspberry-pi-4-with-a-nvme-boot-drive-d9ab4e8aa3c2)
+
+`x86_x64` only:
+
+* [cherryservers.com](https://www.cherryservers.com) - `x86_64` only
+* [IBM Cloud](https://www.ibm.com/uk-en/cloud/bare-metal-servers) - `x86_64` only
 * [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
-* [Scaleway.com](https://www.scaleway.com) - `x86_64` & `arm64` ([ARM support is being deprecated](https://www.theregister.com/2020/04/21/scaleway_arm64_cloud_end_of_life/))
-* [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64`
+* [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/compute/arm/) - `arm64` only
+* [Scaleway.com](https://www.scaleway.com) - `x86_64` [`arm64` is now EOL]( https://www.theregister.com/2020/04/21/scaleway_arm64_cloud_end_of_life/)
+* [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64` only
 
 ## Open Source Virtualization
 
