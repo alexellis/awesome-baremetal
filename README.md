@@ -64,6 +64,8 @@ The Raspberry Pi 4B provides arm64 support with several operating systems like U
 `x86_x64` only:
 
 * [cherryservers.com](https://www.cherryservers.com) - `x86_64` only
+* [Ionos](https://ionos.co.uk) - `x86_64` only
+* [Hetzner](https://hetzner.com) - `x86_64` only
 * [IBM Cloud](https://www.ibm.com/uk-en/cloud/bare-metal-servers) - `x86_64` only
 * [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
 * [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
