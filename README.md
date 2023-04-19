@@ -13,7 +13,7 @@ Bare-metal is awesome. Let's share our favourite tools.
 * No advertisements
 * Format: `link to GitHub or website - "quote from GitHub repo or website"`
 
-Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](https://openfaas.com/) & [Inlets](https://docs.inlets.dev/) Founder.
+Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://openfaas.com/), [actuated.dev](https://actuated.dev) & [Inlets](https://docs.inlets.dev/).
 
 ## Self-hosted
 
@@ -56,22 +56,29 @@ Curator: [Alex Ellis](https://www.alexellis.io) - CNCF Ambassador, [OpenFaaS](ht
 `x86_64` and / or arm64:
 
 * [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
-* [AWS bare metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
+* [AWS Bare Metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
 * [Equinix Metal bare-metal infrastructure](https://www.equinix-metal.com) - `x86_64` & `arm64`
+* [Hetzner](https://hetzner.com) - `x86_64` and `arm64`
 
 The Raspberry Pi 4B provides arm64 support with several operating systems like Ubuntu 20.04 / 22.04 being available. An NVMe can be plugged in over USB-C, see also: [Upgrade your Raspberry Pi 4 with a NVMe boot drive](https://alexellisuk.medium.com/upgrade-your-raspberry-pi-4-with-a-nvme-boot-drive-d9ab4e8aa3c2)
+
+The Mac Mini M1 can be installed with [Asahi Linux](https://asahilinux.org), which performs well as an Arm64 host.
 
 `x86_x64` only:
 
 * [cherryservers.com](https://www.cherryservers.com) - `x86_64` only
-* [Ionos](https://ionos.co.uk) - `x86_64` only
-* [Hetzner](https://hetzner.com) - `x86_64` only
-* [IBM Cloud](https://www.ibm.com/uk-en/cloud/bare-metal-servers) - `x86_64` only
 * [FastHosts bare metal](https://www.fasthosts.co.uk/dedicated-servers) - `x86_x64`
-* [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
+* [hivelocity](https://www.hivelocity.net) - `x86_64` only
+* [IBM Cloud](https://www.ibm.com/uk-en/cloud/bare-metal-servers) - `x86_64` only
+* [Ionos](https://ionos.co.uk) - `x86_64` only
+* [latitude.sh](https://latitude.sh) - `x86_64`
 * [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/compute/arm/) - `arm64` only
+* [OVHcloud bare metal](https://www.ovh.com/world/dedicated-servers) - `x86_64`
+* [phoenixnap NAP](https://phoenixnap.com/bare-metal-cloud/instances)
 * [Scaleway.com](https://www.scaleway.com) - `x86_64` [`arm64` is now EOL]( https://www.theregister.com/2020/04/21/scaleway_arm64_cloud_end_of_life/)
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64` only
+
+You may find additional suggestions in the documentation for [actuated - isolated CI with Firecracker](https://docs.actuated.dev/provision-server/).
 
 ## Open Source Virtualization
 
@@ -88,7 +95,7 @@ This section is for projects like Proxmox, for where the community feel strongly
 Each section should be sorted after it's been updated, here's how you can do that with bash.
 
 ```bash
-cat | sort -f
+cat | sort --ignore-case
 # Copy / paste
 
 # Control + D
