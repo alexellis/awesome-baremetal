@@ -8,7 +8,7 @@ Please fill out the whole template. If you delete or ignore the template, the PR
 
 ## What's your connection to the project?
 
-A) Author / creator
+A) Vendor (or works for vendor) / author / creator / maintainer
 B) Contributor
 C) User
 D) Just heard of it, but haven't used it
