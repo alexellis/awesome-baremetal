@@ -27,7 +27,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 * [iDRAC 6 dockerized](https://github.com/DomiStyle/docker-idrac6) "Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start." by DomiStyle
 * [ironic](https://github.com/openstack/ironic) "A service for managing and provisioning Bare Metal servers" - from OpenStack Foundation
 * [LinuxKit](https://github.com/linuxkit/linuxkit) - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
-* [Lokomotive](https://github.com/kinvolk/lokomotive-kubernetes) - "Lokomotive is a 100% open-source Kubernetes distribution from the folks at Kinvolk"
+* [Lokomotive](https://github.com/kinvolk/lokomotive) - "Lokomotive is a 100% open-source Kubernetes distribution from the folks at Kinvolk"
 * [MaaS](https://maas.io) - "Metal as a Service" by Canonical
 * [Matchbox](https://matchbox.psdn.io) - "Matchbox is a service that matches bare-metal machines to profiles that PXE boot and provision clusters"
 * [metalk8s](https://github.com/scality/metalk8s) - "MetalK8s was launched to make it easier to run Kubernetes (K8s) on bare-metal servers that need persistent storage" by Scality
