@@ -10,8 +10,9 @@ Bare-metal is awesome. Let's share our favourite tools.
 * Must show signs of traction or corporate use
  * No "my scripts for my homelab that only I use" submissions.
  * This list is curated and not a museum, so the project should be active and relevant
-* No advertisements
 * Format: `link to GitHub or website - "quote from GitHub repo or website"`
+
+🏆 Commercial products will require [a sponsorship](https://github.com/sponsors/alexellis) and are added with (sponsored) in brackets in the relevant category.
 
 Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://openfaas.com/), [actuated.dev](https://actuated.dev) & [Inlets](https://docs.inlets.dev/).
 
@@ -44,7 +45,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 
 * [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - "Dnsmasq provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot."
 * [HAProxy](http://www.haproxy.org) - "The Reliable, High Performance TCP/HTTP Load Balancer" - often used in place of hardware LB.
-* [inlets](https://github.com/inlets/inlets-pro) - "A Cloud Native Tunnel for L4 TCP and L7 HTTPS"
+* [inlets](https://github.com/inlets/inlets-pro) - "A Cloud Native Tunnel for L4 TCP and L7 HTTPS" (sponsored)
 * [inlets-operator](https://github.com/inlets/inlets-operator) - "Public IPs for your private Kubernetes Services using inlets"
 * [kube-vip](https://github.com/plunder-app/kube-vip) - "Kubernetes Control Plane Virtual IP and Load-Balancer"
 * [MetalLB](https://metallb.universe.tf) - "MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols."
@@ -81,11 +82,14 @@ You may find additional suggestions in the documentation for [actuated - isolate
 
 ## Open Source Virtualization
 
-This section is for projects like Proxmox, for where the community feel strongly, but their submission doesn't fit into the bare-metal category.
+Orchestration of Virtual Machines (VMs) using KVM.
 
+* [Firecracker](https://firecracker-microvm.github.io/)
+* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
 * [oVirt](https://www.ovirt.org/) - "oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible."
 * [Ganeti](https://github.com/ganeti/ganeti) - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
 * [Proxmox VE](https://www.proxmox.com/en/proxmox-ve/get-started) - "Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform"
+* [actuated.dev](https://actuated.dev) - blazing fast CI for GitHub Actions using Firecracker (sponsored)
 
 ## Appendix
 
