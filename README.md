@@ -59,7 +59,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 
 * [AlibabaCloud bare metal](https://www.alibabacloud.com/product/ebm) - `x86_64` & `arm64`
 * [AWS Bare Metal](https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/)  - `x86_64` & `arm64`
-* [Equinix Metal bare-metal infrastructure](https://www.equinix-metal.com) - `x86_64` & `arm64`
+* [Equinix Metal bare-metal infrastructure](https://metal.equinix.com/) - `x86_64` & `arm64`
 * [Hetzner](https://hetzner.com) - `x86_64` and `arm64`
 
 The Raspberry Pi 4B provides arm64 support with several operating systems like Ubuntu 20.04 / 22.04 being available. An NVMe can be plugged in over USB-C, see also: [Upgrade your Raspberry Pi 4 with a NVMe boot drive](https://alexellisuk.medium.com/upgrade-your-raspberry-pi-4-with-a-nvme-boot-drive-d9ab4e8aa3c2)
