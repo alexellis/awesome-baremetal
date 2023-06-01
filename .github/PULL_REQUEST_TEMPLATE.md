@@ -20,6 +20,7 @@ Selection:
 1) Open Source bare-metal provisioning tool
 2) Open Source networking tool
 3) Open Source Hypervisor for use with bare-metal
+4) [Sponsored Entry](https://github.com/sponsors/alexellis) - for commercial, closed-source products
 
 Selection: 
 
