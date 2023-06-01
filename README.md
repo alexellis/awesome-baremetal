@@ -94,6 +94,12 @@ Orchestration of Virtual Machines (VMs) using KVM.
 * [Proxmox VE](https://www.proxmox.com/en/proxmox-ve/get-started) - "Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform"
 * [actuated.dev](https://actuated.dev) - blazing fast CI for GitHub Actions using Firecracker (sponsored)
 
+## Storage for bare-metal
+
+* [OpenEBS](https://openebs.io/) - "Open Source Container Attached Storage, simplifies running Stateful Applications on Kubernetes.
+* [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
+
+
 ## Appendix
 
 ### Sorting sections
