@@ -24,6 +24,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 * [confluent](https://github.com/lenovo/confluent) - "Service for onboarding and management of baremetal server BMCs and PXE"
 * [Digital Rebar](https://rebar.digital) - "Digital Rebar is the data center automation, provisioning and infrastructure as code (IaC) platform designed with a cloud native architecture replacing Cobbler, Foreman, MaaS or similar technologies"
 * [foreman](https://github.com/theforeman/foreman) - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
+* [iDRAC 6 dockerized](https://github.com/DomiStyle/docker-idrac6) "Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start." by DomiStyle
 * [ironic](https://github.com/openstack/ironic) "A service for managing and provisioning Bare Metal servers" - from OpenStack Foundation
 * [LinuxKit](https://github.com/linuxkit/linuxkit) - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
 * [Lokomotive](https://github.com/kinvolk/lokomotive-kubernetes) - "Lokomotive is a 100% open-source Kubernetes distribution from the folks at Kinvolk"
