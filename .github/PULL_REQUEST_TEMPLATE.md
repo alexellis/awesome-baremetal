@@ -8,7 +8,7 @@ Please fill out the whole template. If you delete or ignore the template, the PR
 
 ## What's your connection to the project?
 
-A) Author / creator
+A) Vendor (or works for vendor) / author / creator / maintainer
 B) Contributor
 C) User
 D) Just heard of it, but haven't used it
@@ -20,6 +20,7 @@ Selection:
 1) Open Source bare-metal provisioning tool
 2) Open Source networking tool
 3) Open Source Hypervisor for use with bare-metal
+4) [Sponsored Entry](https://github.com/sponsors/alexellis) - for commercial, closed-source products
 
 Selection: 
 
