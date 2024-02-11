@@ -36,7 +36,6 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 * [mr-provisioner](https://github.com/mr-provisioner/mr-provisioner) - "Bare metal provisioning tool"
 * [netboot.xyz](https://netboot.xyz) - "a way to PXE boot various operating system installers or utilities from one place within the BIOS without the need of having to go retrieve the media to run the tool."
 * [pixiecore](https://github.com/danderson/netboot/tree/master/pixiecore) "Pixiecore is an tool to manage network booting of machines" by Dave Anderson
-* [plundr](https://github.com/plunder-app/plunder) - "Plunder is a single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier." - with ClusterAPI support
 * [RackHD](https://rackhd.readthedocs.io/en/latest/) - "a technology stack for enabling automated hardware management and orchestration through cohesive APIs. It serves as an abstraction layer between other management layers and the underlying, vendor-specific physical hardware."
 * [Razor](https://github.com/puppetlabs/razor-server) - "Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning"
 * [Sidero Labs](https://www.siderolabs.com/platform/bare-metal-kubernetes-sidero/) - (Formerly known as Talos Systems) "A New Tool for Kubernetes Bare Metal" - with ClusterAPI support
