@@ -39,6 +39,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 * [RackHD](https://rackhd.readthedocs.io/en/latest/) - "a technology stack for enabling automated hardware management and orchestration through cohesive APIs. It serves as an abstraction layer between other management layers and the underlying, vendor-specific physical hardware."
 * [Sidero Labs](https://www.siderolabs.com/platform/bare-metal-kubernetes-sidero/) - (Formerly known as Talos Systems) "A New Tool for Kubernetes Bare Metal" - with ClusterAPI support
 * [Tinkerbell](https://tinkerbell.org) - "Tinkerbell is a bare metal provisioning engine. It’s built and maintained with love by the team at Equinix Metal."
+* [Uyuni Project](https://www.uyuni-project.org/) - "The best systems management solution for your enterprise Linux. From provisioning bare-metal on-premise to managing clusters on the cloud, from tens of managed systems to tens of thousands. Powered by Salt."
 
 ### Inactive projects
 
