@@ -18,6 +18,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 
 ## Self-hosted
 
+
 * [bmc-toolbox](https://github.com/bmc-toolbox) - "bmc-toolbox is bunch of tools to ease BMC management"
 * [cobbler](https://github.com/cobbler/cobbler) - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
 * [Collins](https://tumblr.github.io/collins/) - "CMDB / state machine for infrastructure automation"
@@ -39,6 +40,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 * [RackHD](https://rackhd.readthedocs.io/en/latest/) - "a technology stack for enabling automated hardware management and orchestration through cohesive APIs. It serves as an abstraction layer between other management layers and the underlying, vendor-specific physical hardware."
 * [Sidero Labs](https://www.siderolabs.com/platform/bare-metal-kubernetes-sidero/) - (Formerly known as Talos Systems) "A New Tool for Kubernetes Bare Metal" - with ClusterAPI support
 * [Tinkerbell](https://tinkerbell.org) - "Tinkerbell is a bare metal provisioning engine. It’s built and maintained with love by the team at Equinix Metal."
+* [Warewulf](https://github.com/warewulf/warewulf) - "Warewulf in it’s heart, has always been first and foremost a stateless provisioning system" - baremetal provisioner meant primarily for large HPC clusters but can be used for all sorts of infrastructure management.
 
 ### Inactive projects
 
