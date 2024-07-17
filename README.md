@@ -86,6 +86,7 @@ The Mac Mini M1 can be installed with [Asahi Linux](https://asahilinux.org), whi
 * [phoenixnap NAP](https://phoenixnap.com/bare-metal-cloud/instances)
 * [Scaleway.com](https://www.scaleway.com) - `x86_64` [`arm64` is now EOL]( https://www.theregister.com/2020/04/21/scaleway_arm64_cloud_end_of_life/)
 * [Vultr.com](https://www.vultr.com/products/bare-metal/) - `x86_64` only
+* [InterServer.com](https://www.interserver.net/dedicated/) - `x86_64` only
 
 You may find additional suggestions in the documentation for [actuated - isolated CI with Firecracker](https://docs.actuated.dev/provision-server/).
 
