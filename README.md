@@ -29,7 +29,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 * [ironic](https://github.com/openstack/ironic) "A service for managing and provisioning Bare Metal servers" - from OpenStack Foundation
 * [LinuxKit](https://github.com/linuxkit/linuxkit) - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
 * [Typhoon](https://github.com/poseidon/typhoon/) - "A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux"
-* [MaaS](https://maas.io) - "Metal as a Service" by Canonical
+* [MAAS](https://maas.io) - "Metal as a Service" by Canonical
 * [Matchbox](https://matchbox.psdn.io) - "Matchbox is a service that matches bare-metal machines to profiles that PXE boot and provision clusters"
 * [metalk8s](https://github.com/scality/metalk8s) - "MetalK8s was launched to make it easier to run Kubernetes (K8s) on bare-metal servers that need persistent storage" by Scality
 * [Metal Stack](https://metal-stack.io) - "we believe kubernetes runs best on bare metal. we build an api to manage bare metal hardware and kubernetes on top of that."
