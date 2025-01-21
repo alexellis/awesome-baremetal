@@ -97,7 +97,7 @@ Orchestration of Virtual Machines (VMs) using KVM.
 * [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
 * [oVirt](https://www.ovirt.org/) - "oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible."
 * [Ganeti](https://github.com/ganeti/ganeti) - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
-* [Proxmox VE]([https://www.proxmox.com/en/proxmox-ve/get-started](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)) - "Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform"
+* [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) - "Proxmox VE is a complete open-source platform for all-inclusive enterprise virtualization that tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform"
 * [actuated.dev](https://actuated.dev) - blazing fast CI for GitHub Actions using Firecracker (sponsored)
 
 ## Storage for bare-metal
