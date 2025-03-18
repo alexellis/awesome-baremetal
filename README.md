@@ -62,6 +62,7 @@ Tools often used with bare-metal tooling:
 * [inlets-operator](https://github.com/inlets/inlets-operator) - "Public IPs for your private Kubernetes Services using inlets"
 * [kube-vip](https://github.com/plunder-app/kube-vip) - "Kubernetes Control Plane Virtual IP and Load-Balancer"
 * [MetalLB](https://metallb.universe.tf) - "MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols."
+* [Netris](https://www.netris.io) - "Cloud-like VPC Networking (ELB, DHCP, NAT, Site-to-Site Mesh, Firewall, Routing) Anywhere on-prem and bare-metal"
 * [PorterLB](https://github.com/kubesphere/porterlb) - "PorterLB is an open-source load balancer implementation designed for bare-metal Kubernetes clusters."
 * [Squid](http://www.squid-cache.org) - "a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages." - used with bare-metal to cache packages and ISO images
 * [Varnish-Cache](https://github.com/varnishcache/varnish-cache) Varnish Cache, the high-performance HTTP accelerator
