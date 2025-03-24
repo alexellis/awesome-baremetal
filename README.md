@@ -14,9 +14,9 @@ Bare-metal is awesome. Let's share our favourite tools.
 
 🏆 Commercial products will require [a sponsorship](https://github.com/sponsors/alexellis) and are added with (sponsored) in brackets in the relevant category.
 
-Sponsorship tiers:
+Sponsorship [tiers](https://github.com/sponsors/alexellis):
 
-* "Whole rack" - featured at the top of this repository
+* "Top of rack" - featured at the top of this repository
 * "1U" - a link in the relevant section plus the text "(sponsored)"
 
 Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://openfaas.com/), [actuated.dev](https://actuated.dev) & [Inlets](https://docs.inlets.dev/).
@@ -115,10 +115,6 @@ Orchestration of Virtual Machines (VMs) using KVM.
 * [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
 * [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
 * [Minio](https://min.io/) - AGPLv3 and commercial license for Object Storage.
-
-## Commercial - pending sponsorship
-
-* [Digital Rebar](https://rebar.digital) - "Digital Rebar is the data center automation, provisioning and infrastructure as code (IaC) platform designed with a cloud native architecture replacing Cobbler, Foreman, MaaS or similar technologies"
 
 ## Appendix
 
